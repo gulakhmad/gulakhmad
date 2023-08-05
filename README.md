@@ -1,5 +1,4 @@
-# 😊 About Me:
-😊 ***Hi, I'm Gulnar. Front-End my interest. My goal is to be one of the best in Software field. So i participate in many events and gain new knowledge. I am developing my skills and progressing on my way to become a great for programmer.***
+
 <br><br/>
 
 ## 🌐 Socials:
